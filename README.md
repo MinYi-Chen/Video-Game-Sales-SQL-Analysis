@@ -43,7 +43,7 @@ erDiagram
                 varchar publisher_name }
 ```
 
-A separate `title` table lets one game (e.g. *Grand Theft Auto V*) appear on several platforms while still being counted as one game. Full reasoning: [docs/SI_564_Database_Decisions.pdf](docs/SI_564_Database_Decisions.pdf). Project slides: [docs/SI_564_Presentation.pdf](docs/SI_564_Presentation.pdf).
+A separate `title` table lets one game (e.g. *Grand Theft Auto V*) appear on several platforms while still being counted as one game. Full reasoning: [docs/SI_564_Database_Decisions.pdf](docs/video-game-sales-database-decisions.pdf). Project slides: [docs/SI_564_Presentation.pdf](docs/video-game-sales-presentation.pdf).
 
 **Data:** 988 top-selling releases across 24 platforms, 12 genres, 54 publishers and 817 titles. Sales are in millions of units. Source: the public [Video Game Sales dataset on Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales).
 
